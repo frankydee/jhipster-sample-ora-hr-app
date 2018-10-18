@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleOracleHrApp",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber",
+      "protractor"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "sv",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "ZjY2ZTBjNDJiMTBlNDE2NzQ3NGM1NWQyMDZhN2M3MzIxNTZmNmU3YWJhNTNhODM3MDY1YTFiN2ZlM2M0YTg1YzJhYzNiOWZkODI0ZTBlNDJkZTg5ODk4YzA1Njc3YWEwMTAzNWUzMzNhZjc5YzU3ZGM3NzU4Y2FlMDlkYzIxYjA="
+  },
+  "git-provider": "GitHub",
+  "git-company": "frankydee",
+  "repository-name": "jhipster-sample-ora-hr-app"
+}
