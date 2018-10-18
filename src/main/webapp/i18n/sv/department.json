@@ -1,0 +1,24 @@
+
+{
+    "jhipsterSampleOracleHrApp": {
+        "department" : {
+            "home": {
+                "title": "Departments",
+                "createLabel": "Skapa en ny Department",
+                "createOrEditLabel": "Skapa eller ändra en Department"
+            },
+            "created": "En ny Department är skapad med id {{ param }}",
+            "updated": "En Department är uppdaterad med id  {{ param }}",
+            "deleted": "En Department är borttagen med id  {{ param }}",
+            "delete": {
+                "question": "Är du säker på att du vill ta bort Department {{ id }}?"
+            },
+            "detail": {
+                "title": "Department"
+            },
+            "departmentName": "Department Name",
+            "location": "Location",
+            "employee": "Employee"
+        }
+    }
+}

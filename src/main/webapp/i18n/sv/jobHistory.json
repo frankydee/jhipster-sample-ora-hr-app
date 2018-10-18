@@ -1,0 +1,27 @@
+
+{
+    "jhipsterSampleOracleHrApp": {
+        "jobHistory" : {
+            "home": {
+                "title": "Job Histories",
+                "createLabel": "Skapa en ny Job History",
+                "createOrEditLabel": "Skapa eller ändra en Job History"
+            },
+            "created": "En ny Job History är skapad med id {{ param }}",
+            "updated": "En Job History är uppdaterad med id  {{ param }}",
+            "deleted": "En Job History är borttagen med id  {{ param }}",
+            "delete": {
+                "question": "Är du säker på att du vill ta bort Job History {{ id }}?"
+            },
+            "detail": {
+                "title": "Job History"
+            },
+            "startDate": "Start Date",
+            "endDate": "End Date",
+            "language": "Language",
+            "job": "Job",
+            "department": "Department",
+            "employee": "Employee"
+        }
+    }
+}
